@@ -1,0 +1,18 @@
+1- inicializando o JSON
+
+npm init -y
+
+2- instalando express
+
+npm install --save express
+
+3- instala biblioteca para não precisar ficar atualizando o server
+
+npm install -g nodemon
+
+4- executa dessa forma agora
+
+nodemon index.js
+
+5-instalando dados do banco 
+ npm install pg
